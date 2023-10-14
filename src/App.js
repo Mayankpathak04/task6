@@ -5,8 +5,8 @@ const Portfolio = () => {
   return (
     <div className="portfolio">
       <header>
-        <h1>Shreyash Joshi</h1>
-        <p>+91 7838549552 | shreyashjoshi3002@gmail.com</p>
+        <h1>Mayank Dutt Pathak</h1>
+        <p>+91 8218687599 | mayankdutt.pathak@gmail.com</p>
       </header>
 
       <section className="education">
@@ -18,14 +18,14 @@ const Portfolio = () => {
               <li>Btech in Computer Science</li>
               <li>Chennai, Tamil Nadu</li>
               <li>College of Engineering</li>
-              <li>CGPA: 8.53</li>
+              <li>CGPA: 8.8</li>
             </ul>
           </li>
           <br/>
           <li>
-            SETH ANANDRAM JAIPURIA SCHOOL (CLASS XII)
+            INDRAPRASTHA PUBLIC SCHOOL, BAGHPAT
             <ul>
-              <li>Percentage: 93.6%</li>
+              <li>Percentage: 92.4%</li>
               <li>Uttar Pradesh, India</li>
             </ul>
           </li>
@@ -93,14 +93,15 @@ const Portfolio = () => {
             <ul>
               <li>English</li>
               <li>Hindi</li>
-              <li>Japanese</li>
+              <li>Spanish</li>
+              <li>Punjabi</li>
             </ul>
       </section>
       <section className="links">
         <h2>LINKS</h2>
         <ul>
-          <li><a href="https://www.linkedin.com/in/shreyash-joshi-1166b0220/">LinkedIn</a></li>
-          <li><a href="https://github.com/Godfathxx">Github</a></li>
+          <li><a href="https://www.linkedin.com/in/mayank-dutt-pathak-7820b4257/">LinkedIn</a></li>
+          <li><a href="https://github.com/Mayankpathak04">Github</a></li>
         </ul>
       </section>
     
